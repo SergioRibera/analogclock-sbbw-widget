@@ -1,0 +1,10 @@
+name = "widget"
+class_name = "analog_clock"
+transparent = true
+blur = false
+alwaysontop = true
+width = "200"
+height = "200"
+x = 0
+y = 500
+stick = false
